@@ -1,6 +1,6 @@
-# Quantifying the intersecting threats of wildfire and oil and gas development
+# Wildfires increasingly threaten oil and gas wells in the western United States with disproportionate impacts on marginalized populations
 
-This study is currently under review and we may make edits to the codebase prior to publication.
+This code accompanies a study that has gone through one round of peer review. Additional changes to the codebase may be necessary prior to publication.
 
 ## Study Description
 
